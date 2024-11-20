@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **3002francisco@gmail.com**
 
-- Essential tools and skills: **R, Python, SQLite, Power BI**
+- Essential tools and skills: **R, Python, PostgreSQL, Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
